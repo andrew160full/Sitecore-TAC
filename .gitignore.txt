@@ -1,0 +1,9 @@
+[Dd]ebug/
+bin/
+packages
+[r]elease/
+*.obj
+obj/
+*.csproj
+*.csproj.user
+.vs/
